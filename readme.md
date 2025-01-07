@@ -1,6 +1,6 @@
-get your Groq API Key from the Groq platform and paste it in the `.env` file (refer .env.example)
+### get your Groq API Key from the Groq platform and paste it in the `.env` file (refer .env.example)
 
-run these commands parallely 
+### run these commands parallely 
 
 `cd fastapi_app & uvicorn main:app --reload`
 
@@ -10,7 +10,10 @@ run these commands parallely
 
 
 
-Test it with Postman or Curl
+
+
+
+### Test it with Postman or Curl
 
 `curl -X POST \
   'http://127.0.0.1:8001/start_task/' \
