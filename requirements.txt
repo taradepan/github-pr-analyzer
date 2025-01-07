@@ -1,0 +1,15 @@
+fastapi
+gunicorn
+uvicorn
+Django
+djangorestframework
+markdown
+django-filter
+celery
+requests
+groq
+redis
+eventlet
+python-dotenv
+tenacity 
+httpx
